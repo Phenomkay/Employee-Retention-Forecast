@@ -132,6 +132,9 @@ A fundamental step in understanding employee attrition is to analyze the distrib
 
 A count plot was generated to visually represent the number of employees who stayed versus those who left.
 
+![count of target variable](https://github.com/Phenomkay/Employee-Retention-Forecast/blob/81f4060d31ca12b4e1e98b83c81d53f212e0abae/count%20of%20target%20variable.png)
+
+
 * **X-axis**: Represents the 'left' variable, with labels 'Stayed' (0) and 'Left' (1).
 * **Y-axis**: Shows the count of employees.
 
