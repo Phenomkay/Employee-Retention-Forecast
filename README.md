@@ -169,6 +169,8 @@ Kernel Density Estimate (KDE) plots were used for the following numerical featur
 * `average_montly_hours`
 * `time_spend_company`
 
+![numerical feature distribution](https://github.com/Phenomkay/Employee-Retention-Forecast/blob/13819e9d3767e402926c9925208ecb749ac8ec6b/numerical%20feature%20distribution.png)
+
 ### Key Observations:
 
 * **`satisfaction_level`**:
@@ -200,6 +202,8 @@ Count plots were generated for the following categorical features:
 * `salary`
 * `promotion_last_5years`
 * `Work_accident`
+
+![categorical feature distribution](https://github.com/Phenomkay/Employee-Retention-Forecast/blob/13819e9d3767e402926c9925208ecb749ac8ec6b/categorical%20feature%20distribution.png)
 
 ### Key Observations:
 
@@ -237,6 +241,8 @@ The heatmap provides a clear visual representation of these correlations.
 
 * **Color Scale**: Red shades indicate positive correlations, while blue shades indicate negative correlations. The intensity of the color corresponds to the strength of the correlation.
 * **Annotations**: Each cell displays the correlation coefficient, rounded to two decimal places, for better readability.
+
+![correlation matrix](https://github.com/Phenomkay/Employee-Retention-Forecast/blob/13819e9d3767e402926c9925208ecb749ac8ec6b/correlation%20matrix.png)
 
 ### Key Observations from the Correlation Matrix:
 
@@ -562,6 +568,8 @@ To visually compare the discriminative power of the top-performing models (Rando
 
 ### Visualization: ROC Curve Comparison
 
+![ROC curve comparison](https://github.com/Phenomkay/Employee-Retention-Forecast/blob/13819e9d3767e402926c9925208ecb749ac8ec6b/ROC%20curve%20comparison.png)
+
 The plot displays the ROC curves for both models:
 
 * **X-axis**: False Positive Rate (FPR)
@@ -595,6 +603,8 @@ A horizontal bar plot was generated to display the top 10 most important feature
 
 * **X-axis**: Importance Score
 * **Y-axis**: Feature Name
+
+![Feature importance](https://github.com/Phenomkay/Employee-Retention-Forecast/blob/13819e9d3767e402926c9925208ecb749ac8ec6b/Feature%20importance.png)
 
 The plot clearly highlights the hierarchy of influence among the features.
 
